@@ -51,7 +51,7 @@ MIT License. See the [LICENSE](https://github.com/TESSPayments/tesspayments-ios-
 
 ## Contacts
 
-## ![](/media/footer.jpg)
+<!-- ![](/media/footer.jpg) -->
 
 Website: https://tesspayments.com  
 Phone: [+974-4402-0138](tel:97444020138)  
