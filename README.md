@@ -1,10 +1,8 @@
-![](https://cocoapod-badges.herokuapp.com/v/AkuratecoSDK/badge.png) | [View SDK Wiki](https://github.com/akurateco/akurateco-ios-sdk/wiki) | [Report new issue](https://github.com/akurateco/akurateco-ios-sdk/issues/new)
-
 # TESS Payments iOS SDK
 
 <p align="center">
   <a href="https://akurateco.com">
-      <img src="/media/header.jpg" alt="Akurateco" width="400px"/>
+      <img src="/media/Tess-payments-12.png" alt="Akurateco" width="400px"/>
   </a>
 </p>
 
@@ -53,7 +51,7 @@ MIT License. See the [LICENSE](https://github.com/TESSPayments/tesspayments-ios-
 
 ## Contacts
 
-![](/media/footer.jpg)
+## ![](/media/footer.jpg)
 
 Website: https://tesspayments.com  
 Phone: [+974-4402-0138](tel:97444020138)  
