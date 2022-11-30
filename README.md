@@ -1,14 +1,14 @@
 # TESS Payments iOS SDK
 
 <p align="center">
-  <a href="https://akurateco.com">
-      <img src="/media/Tess-payments-12.png" alt="Akurateco" width="400px"/>
+  <a href="https://tesspayments.com">
+      <img src="/media/Tess-payments-12.png" alt="TESS Payments" width="400px"/>
   </a>
 </p>
 
 TESS Payments iOS SDK was developed and designed with one purpose: to help the iOS developers easily integrate the TESS Payments API Payment Platform for a specific merchant. 
 
-The main aspects of the Akurateco iOS SDK:
+The main aspects of the TESS Payments iOS SDK:
 
 - [Swift](https://developer.apple.com/swift/) is the main language 
 - Minimum iOS 11
@@ -25,7 +25,7 @@ Add to the `Podfile`:
 pod 'AkuratecoSDK'
 ```
 
-Latest version is: ![](https://cocoapod-badges.herokuapp.com/v/AkuratecoSDK/badge.png) 
+<!-- Latest version is: ![](https://cocoapod-badges.herokuapp.com/v/AkuratecoSDK/badge.png) -->
 
 Also, it is possible to download the latest artifact from the [releases page](https://github.com/TESSPayments/tesspayments-ios-sdk/releases).
 
